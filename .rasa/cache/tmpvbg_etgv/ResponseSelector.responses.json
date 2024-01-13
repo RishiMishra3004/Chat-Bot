@@ -1,0 +1,18 @@
+{
+  "utter_chitchat/ask_name": [
+    {
+      "text": "hello, my name is retival bot."
+    },
+    {
+      "text": "I am called Retrival bot!"
+    }
+  ],
+  "utter_chitchat/ask_weather": [
+    {
+      "text": "oh, it does look sunny right now."
+    },
+    {
+      "text": "i am not sure of the whole week but it is rainy today."
+    }
+  ]
+}
